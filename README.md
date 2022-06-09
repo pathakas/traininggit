@@ -3,3 +3,4 @@
    : git clone
    : git pull
    : git update
+   : git delete

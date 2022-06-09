@@ -1,1 +1,2 @@
 # traininggit
+   : Learning git clone
